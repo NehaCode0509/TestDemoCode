@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.DEW.DEWAutomationSuite.atdd.testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.604 s <<< FAILURE! - in com.DEW.DEWAutomationSuite.atdd.testRunner.TestRunner
+com.DEW.DEWAutomationSuite.atdd.testRunner.TestRunner  Time elapsed: 0.582 s  <<< ERROR!
+io.cucumber.core.exception.CompositeCucumberException: There were 2 exceptions. The details are in the stacktrace below.
+
